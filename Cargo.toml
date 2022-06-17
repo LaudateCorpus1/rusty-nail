@@ -7,7 +7,7 @@ authors = ["Christopher J. Woodall <chris.j.woodall@gmail.com>"]
 sysfs_gpio = "0.4"
 sysfs-pwm = "0.1.0"
 error-chain = "0.7.2"
-diesel = "0.10.0"
+diesel = "1.4.6"
 diesel_codegen = { version = "0.10.0", features = ["sqlite"] }
 dotenv = "0.8.0"
 rocket = "0.2.*"
